@@ -1,0 +1,19 @@
+Single player game - similar to car racing game 
+
+Train Game PC - 
+Train NPC - Track ,
+ coins and oil tanks as obstacles, 
+
+track broken down Story - leave passanger from one station to another station. 
+
+cross all the obstacles and reach the final station. 
+
+when reached end of the station displays message you dropped the passesgers safely
+
+Background - station - sceneries and cities - station -use random concept
+
+Goal - reach the final station without passengers geting injured.
+
+coins - add score to the game
+
+Rules : Damage - 1 1. when train touches the oil tank or broken track tank will be disappeared and damage inceases by 1 when the damage reaches 3 or 4 SWAL - passengers are injured. 2. when final station reached (some box like structure to park the train) - SWAL |Reached the station successfully and passengers are safe. 3. when there is broken track or obstacles train need to move to other track.(create multiple tracks) 4. Game should be in y position. 5. left arrow in keyboard - move train left track 6. right arrow key to move train to right track - keyDown or Key is Down. 8. when up press up arrow key one time the train will start moving in y position. 9. when down arrow key is pressed - train stops 7. increase the speed of the train based on the score just like trex game.
